@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 For the non-translation tasks, we follows [DiffuSeq](https://github.com/Shark-NLP/DiffuSeq) for the dataset settings.
 
-For IWSLT14 and WMT14, we follow the data preprocessing from [fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/translation), we also provide the processed datasets in this [links](https://drive.google.com/drive/folders/1iSuB4s4tYHzxgEke97sUYOsje5R_pAoA?usp=sharing).
+For IWSLT14 and WMT14, we follow the data preprocessing from [fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/translation), we also provide the processed datasets in this [links](https://drive.google.com/drive/folders/1iSuB4s4tYHzxgEke97sUYOsje5R_pAoA?usp=sharing). (Update 04/13/2023: Sorry for missing WMT14 data, I just uploaded it. Download from [here](https://drive.google.com/file/d/16172kI0X1ccZkOpSsGpkCvmOFeUulS7e/view?usp=sharing))
 
 
 ## Training
