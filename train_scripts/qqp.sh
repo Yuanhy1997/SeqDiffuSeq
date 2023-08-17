@@ -5,8 +5,8 @@ set -u
 GPU=${1}
 LOSS_FUNC="uniform"
 LR=0.0001
-SRC=${2:-'de'}
-TGT=${3:-'en'}
+SRC=${2:-'src'}
+TGT=${3:-'tgt'}
 SEQ_LEN=64
 SCHEDULE_UPDATE=20000
 WARMUP=10000
